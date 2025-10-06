@@ -54,7 +54,7 @@
     "region": "Amazonas",
     "name": "Lake Pomacochas",
     "description": "Beautiful highland lake surrounded by lush vegetation and traditional villages. Ideal for birdwatching, fishing, and enjoying the tranquil atmosphere of the Amazonas highlands.",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.ecured.cu/images/4/40/LagunaPomacochas.jpg",
     "lat": -5.8333,
     "lng": -77.9667,
     "category": "Natural"
@@ -64,7 +64,7 @@
     "region": "Amazonas",
     "name": "Quiocta Cavern",
     "description": "Impressive limestone cave system featuring spectacular stalactites and stalagmites formations. The cavern extends over 500 meters and contains ancient human remains and pottery.",
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://rustytraveltrunk.com/wp-content/uploads/2017/04/Quiocta-3.jpg",
     "lat": -6.1833,
     "lng": -77.8667,
     "category": "Natural"
@@ -74,7 +74,7 @@
     "region": "Amazonas",
     "name": "Levanto Archaeological Site",
     "description": "Ancient Chachapoya settlement featuring circular stone structures and agricultural terraces. The site offers panoramic views of the surrounding valleys and mountains.",
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://thumbs.dreamstime.com/b/ancient-walls-castle-levanto-liguria-italy-europe-against-blue-sky-ancient-walls-castle-levanto-130698285.jpg",
     "lat": -6.4167,
     "lng": -77.9167,
     "category": "Archaeological"
@@ -84,7 +84,7 @@
     "region": "Amazonas",
     "name": "Condaorco Waterfall",
     "description": "Beautiful 70-meter waterfall located near the town of Lamud. The waterfall creates a natural pool perfect for swimming and is surrounded by diverse flora and fauna.",
-    "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://dialogue.earth/content/uploads/2020/03/San-Rafael-waterfall-Ecuador-1.jpg",
     "lat": -6.1333,
     "lng": -77.95,
     "category": "Natural"
@@ -94,7 +94,7 @@
     "region": "Amazonas",
     "name": "Gran Vilaya Archaeological Complex",
     "description": "Vast archaeological area containing numerous Chachapoya ruins spread across multiple mountain ridges. Features stone structures, plazas, and agricultural terraces in a remote cloud forest setting.",
-    "image": "https://images.unsplash.com/photo-1464822759843-44bcb45994c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://southamericaplanet.com/wp-content/uploads/2020/04/Kuealap-Peru-ST.jpg",
     "lat": -6.35,
     "lng": -77.9,
     "category": "Archaeological"
@@ -114,7 +114,7 @@
     "region": "Ancash",
     "name": "Chavín de Huántar",
     "description": "Major archaeological site of the Chavín culture, featuring underground galleries, stone monuments, and intricate carvings. Considered one of the earliest Andean civilizations.",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51148181187.jpg/330px-Chav%C3%ADn_de_Hu%C3%A1ntar_-_51148181187.jpg",
     "lat": -9.5928,
     "lng": -77.1783,
     "category": "Archaeological"

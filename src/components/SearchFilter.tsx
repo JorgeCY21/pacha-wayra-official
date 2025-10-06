@@ -5,7 +5,7 @@ interface Props {
 const regions = [
   'Amazonas',
   'Ancash',
-  'Apurímac',
+  'Apurimac',
   'Arequipa',
   'Ayacucho',
   'Cajamarca',
@@ -13,7 +13,7 @@ const regions = [
   'Huancavelica',
   'Huanuco',
   'Ica',
-  'Junín',
+  'Junin',
   'La Libertad',
   'Lambayeque',
   'Lima',
@@ -23,7 +23,7 @@ const regions = [
   'Pasco',
   'Piura',
   'Puno',
-  'San Martín',
+  'San Martin',
   'Tacna',
   'Tumbes',
   'Ucayali'
