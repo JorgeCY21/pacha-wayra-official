@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Saywite Archaeological Site",
     "description": "Important Inca archaeological complex featuring the famous Saywite Stone, a massive monolith with intricate carvings representing Inca cosmology and hydraulic engineering knowledge.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sayhuite_Archaeological_site_-_rock_sculpture.jpg",
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Ampay National Sanctuary",
     "description": "Protected natural area surrounding Mount Ampay, featuring unique Intimpa forests, crystal-clear lagoons, and diverse high-altitude flora and fauna including spectacled bears and Andean foxes.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Uspaccocha_nevado.jpg",
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Pachachaca River Canyon",
     "description": "Dramatic canyon carved by the Pachachaca River, featuring impressive rock formations, traditional hanging bridges, and opportunities for adventure sports like rafting and rock climbing.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pachachaca.JPG",
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Sondor Archaeological Complex",
     "description": "Pre-Inca and Inca archaeological site featuring pyramidal structures, ceremonial platforms, and strategic hilltop location offering panoramic views of Lake Pacucha and surrounding valleys.",
     "image": "https://www.pacuchaglamping.com/wp-content/uploads/2022/09/sondor-andahuaylas.jpg",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Lake Pacucha",
     "description": "Beautiful high-altitude lake surrounded by agricultural fields and traditional Quechua villages. Known for its tranquil waters, birdwatching opportunities, and stunning mountain reflections.",
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3f/7f/81/20170421-151904-hdr-largejpg.jpg?w=2000&h=-1&s=1",
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Choquequirao Archaeological Complex",
     "description": "Spectacular Inca citadel often called 'Machu Picchu's sacred sister', featuring impressive terraces, temples, and residential areas in a remote mountain setting accessible only by trekking.",
     "image": "https://www.peru.travel/Contenido/Atractivo/Imagen/en/135/1.1/Principal/choquequirao.jpg",
@@ -261,9 +261,9 @@
   },
   {
     "id": 27,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Abancay Main Square",
-    "description": "Charming colonial-style main square surrounded by historic buildings, churches, and local markets. The heart of Apurímac's capital city, offering cultural experiences and traditional cuisine.",
+    "description": "Charming colonial-style main square surrounded by historic buildings, churches, and local markets. The heart of Apurimac's capital city, offering cultural experiences and traditional cuisine.",
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d2/7f/1d/plaza-de-armas.jpg?w=2000&h=-1&s=1",
     "lat": -13.6333,
     "lng": -72.8833,
@@ -271,9 +271,9 @@
   },
   {
     "id": 28,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Cconoc Hot Springs",
-    "description": "Natural thermal springs located along the Apurímac River, featuring multiple pools with mineral-rich waters at different temperatures, surrounded by stunning canyon scenery.",
+    "description": "Natural thermal springs located along the Apurimac River, featuring multiple pools with mineral-rich waters at different temperatures, surrounded by stunning canyon scenery.",
     "image": "https://i0.wp.com/illakunturtravel.com/wp-content/uploads/2025/02/Banos-termales-de-Cconoc.webp?w=1000&ssl=1",
     "lat": -13.5333,
     "lng": -73.0167,
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "region": "Apurímac",
+    "region": "Apurimac",
     "name": "Tarahuasi Archaeological Site",
     "description": "Inca archaeological complex featuring well-preserved stone structures, agricultural terraces, and an impressive ceremonial platform with fine stonework overlooking the Pachachaca River.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tarahuasi_Archaeological_site_-_overview.jpg",
@@ -291,8 +291,8 @@
   },
   {
     "id": 30,
-    "region": "Apurímac",
-    "name": "Apurímac River Valley",
+    "region": "Apurimac",
+    "name": "Apurimac River Valley",
     "description": "Majestic river valley carving through the Andes, offering spectacular canyon views, traditional villages, and opportunities for adventure tourism including white-water rafting and trekking.",
     "image": "https://www.tierrasvivas.com/img/valley-of-apurimac-316.jpg",
     "lat": -13.5,
@@ -534,7 +534,7 @@
     "region": "Cajamarca",
     "name": "Cajamarca Cathedral",
     "description": "Magnificent Baroque cathedral dominating the main square, built with volcanic stone. Features an ornate facade, gold-leaf altars, and important religious art from the colonial period.",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Iglesia_Santa_Catalina%2C_Cajamarca.jpg",
     "lat": -7.1644,
     "lng": -78.5169,
     "category": "Cultural"
@@ -544,7 +544,7 @@
     "region": "Cajamarca",
     "name": "Kuntur Wasi Archaeological Site",
     "description": "Important Formative period archaeological site featuring temple structures, stone sculptures, and gold artifacts from the Cupisnique culture. Offers panoramic views of the surrounding valleys.",
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://images.squarespace-cdn.com/content/v1/55f702a4e4b0794fbe24736b/1570095623330-X8EFN2XTU4XOMQOD7P8J/Kuntur+Wasi%2C+Cajamarca+-+Views+of+Surrounding+Valleys.jpg",
     "lat": -7.1167,
     "lng": -78.8333,
     "category": "Archaeological"
@@ -552,9 +552,9 @@
   {
     "id": 56,
     "region": "Cajamarca",
-    "name": "Porcón Farm",
+    "name": "Porcon Farm",
     "description": "Beautiful agricultural cooperative and ecological reserve featuring lush pine forests, dairy farms, and traditional cheese production. Offers hiking trails and community-based tourism experiences.",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.granjaporcon.org.pe/img/porcon/paquetes5.jpg",
     "lat": -7.1333,
     "lng": -78.55,
     "category": "Natural"
@@ -562,9 +562,9 @@
   {
     "id": 57,
     "region": "Cajamarca",
-    "name": "Layzón Archaeological Complex",
+    "name": "Layzon Archaeological Complex",
     "description": "Pre-Inca ceremonial center featuring pyramid structures, plazas, and intricate stone carvings. The site provides important insights into the Cajamarca culture's religious practices.",
-    "image": "https://images.unsplash.com/photo-1464822759843-44bcb45994c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://2.bp.blogspot.com/-Ms0qqaXA-c4/WfJxLRfkVqI/AAAAAAABCUQ/0lSFiQ7nryQ4zInGgfY3pNI6lGeh3PlhACLcBGAs/s640/complejo-arqueologico-de-layzon2.jpg",
     "lat": -7.1833,
     "lng": -78.4833,
     "category": "Archaeological"
@@ -574,7 +574,7 @@
     "region": "Cajamarca",
     "name": "Collpa Farm",
     "description": "Traditional dairy farm famous for its trained cows that come when called by name. Offers demonstrations of cheese production, horseback riding, and rural lifestyle experiences.",
-    "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.incatrailmachu.com/img/collpa-a-traditional-farm-near-the-city-of-cajamarca-355.jpg",
     "lat": -7.15,
     "lng": -78.4833,
     "category": "Cultural"
@@ -584,7 +584,7 @@
     "region": "Cajamarca",
     "name": "San Nicolas Cathedral",
     "description": "Historic church known for its beautiful Baroque architecture and important role in Cajamarca's religious history. Features impressive wood carvings and colonial-era artwork.",
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f5/00/65/caption.jpg?w=800&h=400&s=1",
     "lat": -7.1644,
     "lng": -78.5169,
     "category": "Cultural"
@@ -594,7 +594,7 @@
     "region": "Cajamarca",
     "name": "Llacanora Waterfalls",
     "description": "Series of beautiful waterfalls surrounded by lush vegetation and traditional countryside. Perfect for hiking, swimming in natural pools, and enjoying the peaceful mountain scenery.",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://destino.regioncajamarca.gob.pe/media/provincias/0602/060202/publicaciones/Llacanora.jpeg",
     "lat": -7.2,
     "lng": -78.4333,
     "category": "Natural"
@@ -704,7 +704,7 @@
     "region": "Huancavelica",
     "name": "Santa Barbara Mines",
     "description": "Historic mercury mines that operated from the 16th to 19th centuries, playing a crucial role in silver production during the colonial period. Features underground tunnels and mining infrastructure.",
-    "image": "https://images.unsplash.com/photo-1574289197505-47e373ff8c87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/F24JFHO22ZGOZLCAMR5QAXNPV4.jpg",
     "lat": -12.7833,
     "lng": -74.9667,
     "category": "Cultural"
@@ -714,7 +714,7 @@
     "region": "Huancavelica",
     "name": "Baths of San Cristóbal",
     "description": "Natural thermal springs with therapeutic properties, located in a scenic highland setting. The mineral-rich waters have been used for centuries for their healing benefits.",
-    "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://antipode-peru.com/Que-Voir/bains-thermaux-de-san-cristobal-v1-1200-800.jpeg",
     "lat": -12.7833,
     "lng": -74.9833,
     "category": "Natural"
@@ -724,7 +724,7 @@
     "region": "Huancavelica",
     "name": "Huancavelica Cathedral",
     "description": "Beautiful colonial church built in Baroque style with indigenous influences. Features intricate stonework and important religious art from the 17th century.",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Catedral_de_Huancavelica_en_2024_03.jpg",
     "lat": -12.7861,
     "lng": -74.9753,
     "category": "Cultural"
@@ -734,7 +734,7 @@
     "region": "Huancavelica",
     "name": "Uchkus Inkañan Archaeological Site",
     "description": "Inca archaeological complex featuring agricultural terraces, ceremonial platforms, and astronomical observatories. The site demonstrates advanced Inca engineering and agricultural knowledge.",
-    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Uchkus_Inka%C3%B1an_archeological_site_Huancavelica.PNG",
     "lat": -12.7167,
     "lng": -75.0833,
     "category": "Archaeological"
@@ -744,7 +744,7 @@
     "region": "Huancavelica",
     "name": "Lake Choclococha",
     "description": "Large high-altitude lake surrounded by dramatic Andean scenery. Important for local wildlife and traditional fishing communities, offering opportunities for birdwatching and hiking.",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://portal.andina.pe/EDPfotografia2/Thumbnail/2012/02/28/000176932W.jpg",
     "lat": -13.1833,
     "lng": -75.1333,
     "category": "Natural"
@@ -754,7 +754,7 @@
     "region": "Huancavelica",
     "name": "San Antonio de Cusicancha Church",
     "description": "Historic colonial church featuring Mudejar-style architecture and beautiful interior decorations. Represents the fusion of Spanish and indigenous artistic traditions.",
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://data-peru.itp.gob.pe/api/image?slug=geo&id=090610&size=thumb",
     "lat": -12.8,
     "lng": -75.0,
     "category": "Cultural"
@@ -764,7 +764,7 @@
     "region": "Huancavelica",
     "name": "Pampa Galeras National Reserve",
     "description": "Protected area dedicated to the conservation of vicuñas, featuring high-altitude grasslands and unique Andean ecosystems. Offers wildlife viewing and spectacular mountain landscapes.",
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.salkantaytrekmachu.com/img/pampa-galeras-national-reserve-the-refuge-of-the-remarkable-vicuna-184.jpg",
     "lat": -14.6667,
     "lng": -74.6667,
     "category": "Natural"
@@ -774,7 +774,7 @@
     "region": "Huancavelica",
     "name": "Inca Wasi Archaeological Complex",
     "description": "Important Inca administrative center featuring stone structures, storage facilities, and ceremonial areas. The site offers insights into Inca governance and regional organization.",
-    "image": "https://images.unsplash.com/photo-1464822759843-44bcb45994c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://exploortrip.com/wp-content/uploads/2024/06/INCAHUASI3.jpg",
     "lat": -12.9,
     "lng": -75.2333,
     "category": "Archaeological"
@@ -784,7 +784,7 @@
     "region": "Huancavelica",
     "name": "Marcavalle Hot Springs",
     "description": "Natural thermal springs located in a picturesque valley, featuring multiple pools with mineral-rich waters. Popular for relaxation and traditional healing practices.",
-    "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.kuodatravel.com/wp-content/uploads/2022/09/Sustainable-Practices-for-Natural-Hot-Springs-Peru.jpg",
     "lat": -12.7167,
     "lng": -74.9167,
     "category": "Natural"
@@ -792,9 +792,9 @@
   {
     "id": 80,
     "region": "Huancavelica",
-    "name": "Huaytará Archaeological Complex",
+    "name": "Huaytara Archaeological Complex",
     "description": "Extensive pre-Inca and Inca archaeological site featuring stone structures, tombs, and ceremonial platforms. Demonstrates the architectural evolution of ancient Andean cultures.",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.inkanmilkyway.com/wp-content/uploads/lugares-arqueologicos-del-peru-prehispanico-1.webp",
     "lat": -13.5667,
     "lng": -75.2167,
     "category": "Archaeological"
