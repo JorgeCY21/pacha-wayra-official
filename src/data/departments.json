@@ -1,0 +1,255 @@
+[
+  {
+    "department": "Amazonas",
+    "hot": {
+      "activities": ["Jungle trekking", "Bird watching", "River boating", "Nature photography", "Visiting native communities"],
+      "foods": ["Juane (rice and meat wrapped in bijao leaf)", "Inchicapi (chicken and peanut soup)", "Tacacho with Cecina (mashed planton with smoked pork)", "Tropical fruit juices"]
+    },
+    "cold": {
+      "activities": ["Textile artisan tours", "Orchid observation", "Cultural heritage walks", "Traditional cooking workshops"],
+      "foods": ["Chicken Noodle Soup", "Purtumute (pork and bean stew)", "Regional tamales", "Chicha de Jora (fermented corn drink)"]
+    }
+  },
+  {
+    "department": "Ancash",
+    "hot": {
+      "activities": ["Mountain hiking", "Landscape photography", "Andean flora observation", "Lagoon tours"],
+      "foods": ["Regional Ceviche", "Spicy Guinea Pig", "Humitas (sweet corn tamales)", "Corn with Cheese"]
+    },
+    "cold": {
+      "activities": ["Hot spring baths", "Stargazing", "Handicraft workshops", "Museum visits"],
+      "foods": ["Pachamanca (earth oven feast)", "Lamb Head Broth", "Fried Trout", "Barley Api (warm drink)"]
+    }
+  },
+  {
+    "department": "Apurímac",
+    "hot": {
+      "activities": ["Valley exploration", "River swimming", "Agricultural tourism", "Outdoor festivals"],
+      "foods": ["Pork Rinds", "Pressed Fried Guinea Pig", "Corn Pudding", "Chicha de Jora"]
+    },
+    "cold": {
+      "activities": ["Cultural city tours", "Mountain lagoon visits", "Local market exploration", "Religious festival participation"],
+      "foods": ["Tripe Soup", "Pachamanca", "Olluquito with Charqui (ulluco stew with jerky)", "Fava Bean Soup"]
+    }
+  },
+  {
+    "department": "Arequipa",
+    "hot": {
+      "activities": ["City walking tours", "Canyon viewing", "Condor spotting", "Countryside excursions"],
+      "foods": ["Stuffed Spicy Pepper", "Arequipa-style Adobo (pork marinade)", "Shrimp Chowder", "Cheese Ice Cream"]
+    },
+    "cold": {
+      "activities": ["Hot spring visits", "Museum tours", "Gastronomic tours", "Colonial architecture walks"],
+      "foods": ["Arequipa-style Ocopa (potatoes with nut sauce)", "Cheese Salad", "White Broth", "Spiced Anise Drink"]
+    }
+  },
+  {
+    "department": "Ayacucho",
+    "hot": {
+      "activities": ["Rural landscape tours", "Handicraft shopping", "Vineyard visits", "Traditional festival participation"],
+      "foods": ["Puca Picante (spicy potato dish)", "Ayacucho-style Adobo", "Qapchi (potato and cheese salad)", "Chicha de Molle (pepper tree drink)"]
+    },
+    "cold": {
+      "activities": ["Easter celebrations", "Colonial church tours", "Retablo artisan workshops", "Historical walks"],
+      "foods": ["Tripe Soup", "Patachi (wheat and meat soup)", "Lawa (corn soup)", "Warm Ponche (fruit punch)"]
+    }
+  },
+  {
+    "department": "Cajamarca",
+    "hot": {
+      "activities": ["Farm visits", "Carnival participation", "Hot spring baths", "Countryside horseback riding"],
+      "foods": ["Cajamarca-style Fried Trout", "Picante de Papa (spicy potato stew)", "Humitas", "Queso Fresco con Miel (cheese with honey)"]
+    },
+    "cold": {
+      "activities": ["Historical city tours", "Dairy farm tours", "Handicraft markets", "Cultural center visits"],
+      "foods": ["Caldo Verde (green soup)", "Shirumbos (stuffed zucchini)", "Chicharrones con Mote (pork rinds with corn)", "Warm Milk with Anise"]
+    }
+  },
+  {
+    "department": "Cusco",
+    "hot": {
+      "activities": ["Visit local markets", "Outdoor walking tours", "Photography tours", "Cultural shows"],
+      "foods": ["Ceviche", "Chicha Morada", "Light salads", "Grilled meats"]
+    },
+    "cold": {
+      "activities": ["Ruins exploration", "Hot springs visits", "Indoor museums", "Cooking classes"],
+      "foods": ["Cuy (Guinea Pig)", "Hearty soups", "Potato dishes", "Hot beverages"]
+    }
+  },
+  {
+    "department": "Huancavelica",
+    "hot": {
+      "activities": ["Mining heritage tours", "Mountain hiking", "Traditional festival watching", "Local market visits"],
+      "foods": ["Pachamanca", "Patachi", "Mondongo Soup", "Chicha de Jora"]
+    },
+    "cold": {
+      "activities": ["Hot spring relaxation", "Church tours", "Textile workshops", "Indigenous community visits"],
+      "foods": ["Caldo de Cabeza (lamb head soup)", "Trucha Frita (fried trout)", "Potato-based stews", "Warm Api drinks"]
+    }
+  },
+  {
+    "department": "Huánuco",
+    "hot": {
+      "activities": ["Jungle river tours", "Coffee plantation visits", "Waterfall hiking", "Bird watching"],
+      "foods": ["Tacacho with Cecina", "Juane", "Inchicapi", "Fresh Fruit Juices"]
+    },
+    "cold": {
+      "activities": ["Andean archaeological tours", "City history walks", "Local market exploration", "Cultural festivals"],
+      "foods": ["Pachamanca", "Shambar (wheat and pork soup)", "Picante de Cuy", "Warm Chicha de Jora"]
+    }
+  },
+  {
+    "department": "Ica",
+    "hot": {
+      "activities": ["Desert adventures", "Vineyard and winery tours", "Sandboarding", "Beach visits"],
+      "foods": ["Ceviche", "Carapulcra (dried potato stew)", "Pisco Sour", "Fresh Figs"]
+    },
+    "cold": {
+      "activities": ["Museum visits", "Wine tasting tours", "Observatory visits", "Cultural walks"],
+      "foods": ["Tejas (sweet pecans)", "Guargüero (offal stew)", "Sopa Seca (dry noodles)", "Warm Pisco drinks"]
+    }
+  },
+  {
+    "department": "Junín",
+    "hot": {
+      "activities": ["Lake Titicaca tours", "Highland farming visits", "Traditional festival participation", "Mountain biking"],
+      "foods": ["Pachamanca", "Huancaina Potatoes", "Fried Trout", "Chicha de Jora"]
+    },
+    "cold": {
+      "activities": ["Hot spring baths", "City historical tours", "Handicraft shopping", "Museum visits"],
+      "foods": ["Caldo de Cabeza", "Patasca (tripe and corn soup)", "Olluquito con Charqui", "Warm Api"]
+    }
+  },
+  {
+    "department": "La Libertad",
+    "hot": {
+      "activities": ["Beach activities", "Surfing lessons", "Seaside promenades", "Fishing trips"],
+      "foods": ["Ceviche", "Shambar", "Cabrito con Frejoles (goat with beans)", "Pisco Sour"]
+    },
+    "cold": {
+      "activities": ["Archaeological site tours", "Museum visits", "City walking tours", "Gastronomic festivals"],
+      "foods": ["Pepián de Pava (turkey stew)", "Frito Trujillano (fried pork)", "Sopa Teóloga (bread and poultry soup)", "Warm Anise Drink"]
+    }
+  },
+  {
+    "department": "Lambayeque",
+    "hot": {
+      "activities": ["Beach outings", "Archaeological museum visits", "Bird watching in reserves", "Traditional cooking classes"],
+      "foods": ["Kingfish Ceviche", "Seco de Cabrito (goat stew)", "Espresso", "Alfajores"]
+    },
+    "cold": {
+      "activities": ["Historical city tours", "Handicraft market shopping", "Cultural center visits", "Moche route tours"],
+      "foods": ["Arroz con Pato (duck with rice)", "Chinguirito (dried fish ceviche)", "Humitas", "Warm Chicha de Jora"]
+    }
+  },
+  {
+    "department": "Loreto",
+    "hot": {
+      "activities": ["Amazon river cruises", "Jungle canopy walks", "Pink dolphin watching", "Night wildlife spotting"],
+      "foods": ["Juane", "Tacacho con Cecina", "Inchicapi", "Cocona Juice"]
+    },
+    "cold": {
+      "activities": ["Indigenous community visits", "Handicraft workshops", "Butterfly farm tours", "Ethnobotanical walks"],
+      "foods": ["Patarashca (grilled fish in leaf)", "Chonta Salad (palm heart)", "Aguaje Fruit", "Masato (fermented yuca drink)"]
+    }
+  },
+  {
+    "department": "Madre de Dios",
+    "hot": {
+      "activities": ["Rainforest trekking", "Clay lick bird watching", "Lake canoeing", "Jungle lodge stays"],
+      "foods": ["Juane", "Tacacho con Cecina", "Grilled Paiche (large fish)", "Cocona and Camu Camu juices"]
+    },
+    "cold": {
+      "activities": ["Wildlife rescue center visits", "Ethnic community tourism", "Night walks", "Photography tours"],
+      "foods": ["Asado de Venado (grilled venison)", "Sopa de Motelo (tortoise soup)", "Plantain dishes", "Warm Herbal Teas"]
+    }
+  },
+  {
+    "department": "Moquegua",
+    "hot": {
+      "activities": ["Valley vineyard tours", "Pisco distillery visits", "Desert oasis trips", "Geological site viewing"],
+      "foods": ["Ceviche", "Pato en Ají (duck in chili)", "Olives and Olive Oil", "Pisco"]
+    },
+    "cold": {
+      "activities": ["Historical city center walks", "Mining museum visits", "Hot spring relaxation", "Cultural festivals"],
+      "foods": ["Caldillo de Loro (fish soup)", "Cacharrada (assorted grilled meats)", "Cheese Pastries", "Warm Fruit Nectars"]
+    }
+  },
+  {
+    "department": "Pasco",
+    "hot": {
+      "activities": ["Highland lake visits", "Mining heritage tours", "Andean festival participation", "Nature hikes"],
+      "foods": ["Pachamanca", "Picante de Cuy", "Trucha Frita", "Chicha de Jora"]
+    },
+    "cold": {
+      "activities": ["Hot spring baths", "City tours", "Handicraft workshops", "Museum visits"],
+      "foods": ["Caldo de Cabeza", "Patasca", "Olluquito con Charqui", "Warm Api"]
+    }
+  },
+  {
+    "department": "Piura",
+    "hot": {
+      "activities": ["Beach relaxation", "Surfing", "Desert oasis visits", "Seaside town exploration"],
+      "foods": ["Ceviche", "Seco de Chabelo (plantain and meat stew)", "Mangoes", "Pipa (cold coconut water)"]
+    },
+    "cold": {
+      "activities": ["Cathedral and church visits", "Handicraft market shopping", "Cultural museum tours", "Evening promenades"],
+      "foods": ["Malarrabia (sweet plantain and cheese)", "Cabrito a la Norteña (northern-style goat)", "Rice with Duck", "Warm Algarrobina drinks"]
+    }
+  },
+  {
+    "department": "Puno",
+    "hot": {
+      "activities": ["Lake Titicaca island tours", "Floating island visits", "Traditional dance shows", "Handicraft markets"],
+      "foods": ["Fried Trout", "Pesque (quinoa dish)", "Chairo (Andean soup)", "Chicha de Jora"]
+    },
+    "cold": {
+      "activities": ["Hot spring visits", "Museum tours", "Religious festival participation", "Cultural workshops"],
+      "foods": ["Cancacho (spicy roasted pork)", "Sajta de Gallina (chicken stew)", "Quinoa Soups", "Warm Api"]
+    }
+  },
+  {
+    "department": "San Martín",
+    "hot": {
+      "activities": ["Waterfall hikes", "Coffee and cacao farm tours", "River swimming", "Jungle wildlife spotting"],
+      "foods": ["Juane", "Inchicapi", "Tacacho con Cecina", "Aguaje Ice Cream"]
+    },
+    "cold": {
+      "activities": ["Orchid garden visits", "Cultural center tours", "Handicraft workshops", "City park walks"],
+      "foods": ["Nina Juanes (spicy juanes)", "Chapo (plantain drink)", "Cecina with Tacacho", "Warm Herbal Infusions"]
+    }
+  },
+  {
+    "department": "Tacna",
+    "hot": {
+      "activities": ["Hot spring baths", "Desert landscape tours", "Winery visits", "Historical monument viewing"],
+      "foods": ["Picante a la Tacneña", "Ceviche", "Adobo Tacneño", "Pisco Sour"]
+    },
+    "cold": {
+      "activities": ["Museum visits", "City walking tours", "Cultural center activities", "Shopping at craft markets"],
+      "foods": ["Pasto de Choclo (corn casserole)", "Choclo con Quesillo (corn with cheese)", "Caldo de Pascua", "Warm Anise Nectar"]
+    }
+  },
+  {
+    "department": "Tumbes",
+    "hot": {
+      "activities": ["Mangrove forest tours", "Beach relaxation", "Scuba diving", "National sanctuary visits"],
+      "foods": ["Ceviche de Conchas Negras (black shell ceviche)", "Crab dishes", "Plátano Asado (grilled plantain)", "Coco Smoothies"]
+    },
+    "cold": {
+      "activities": ["Bird watching", "Cultural market tours", "Historical site visits", "Sunset viewing"],
+      "foods": ["Caldo de Bolas (green plantain dumpling soup)", "Majado de Plátano (mashed plantain)", "Shrimp Soup", "Warm Fruit Juices"]
+    }
+  },
+  {
+    "department": "Ucayali",
+    "hot": {
+      "activities": ["Amazon river expeditions", "Jungle lodge experiences", "Native community visits", "Fishing trips"],
+      "foods": ["Juane", "Tacacho con Cecina", "Patarashca", "Cocona Juice"]
+    },
+    "cold": {
+      "activities": ["Handicraft workshops", "Cultural museum visits", "Botanical garden walks", "Traditional storytelling"],
+      "foods": ["Inchicapi", "Chonta Salad", "Grilled Paiche", "Masato"]
+    }
+  }
+]

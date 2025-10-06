@@ -1,0 +1,218 @@
+[
+  {
+    "region": "Amazonas",
+    "title": "Malaria Risk",
+    "description": "Active malaria transmission in jungle areas; use mosquito nets and prophylaxis.",
+    "risk_level": "High",
+    "affected_areas": ["Condorcanqui", "Bagua", "Utcubamba"],
+    "prevention_measures": ["Use insect repellent", "Sleep under mosquito nets", "Take antimalarial medication"],
+    "symptoms": ["Fever", "Chills", "Headache", "Muscle aches", "Fatigue"]
+  },
+  {
+    "region": "Ancash",
+    "title": "Altitude Sickness",
+    "description": "High altitude areas require acclimatization; avoid strenuous activity upon arrival.",
+    "risk_level": "High",
+    "affected_areas": ["Huaraz", "Caraz", "Chavín", "Huascarán National Park"],
+    "prevention_measures": ["Acclimatize 2-3 days", "Stay hydrated", "Avoid alcohol", "Consider medication"],
+    "symptoms": ["Headache", "Nausea", "Dizziness", "Shortness of breath"]
+  },
+  {
+    "region": "Apurímac",
+    "title": "Respiratory Infections",
+    "description": "Increase in influenza cases during cold season; vaccination recommended.",
+    "risk_level": "Medium",
+    "affected_areas": ["Abancay", "Andahuaylas", "Chincheros"],
+    "prevention_measures": ["Get flu vaccine", "Wash hands frequently", "Wear masks in crowds"],
+    "symptoms": ["Fever", "Cough", "Sore throat", "Body aches"]
+  },
+  {
+    "region": "Arequipa",
+    "title": "Dengue Outbreak",
+    "description": "Rising dengue cases; eliminate stagnant water and use mosquito repellent.",
+    "risk_level": "High",
+    "affected_areas": ["Arequipa City", "Camana", "Mollendo"],
+    "prevention_measures": ["Use mosquito repellent", "Eliminate stagnant water", "Wear long sleeves"],
+    "symptoms": ["High fever", "Severe headache", "Joint pain", "Rash"]
+  },
+  {
+    "region": "Ayacucho",
+    "title": "Typhoid Fever",
+    "description": "Waterborne disease risk; drink only bottled or treated water.",
+    "risk_level": "Medium",
+    "affected_areas": ["Huamanga", "Huanta", "San Miguel"],
+    "prevention_measures": ["Drink bottled water", "Avoid street food", "Wash hands frequently"],
+    "symptoms": ["Prolonged fever", "Stomach pain", "Headache", "Loss of appetite"]
+  },
+  {
+    "region": "Cajamarca",
+    "title": "Leptospirosis Alert",
+    "description": "Increase after heavy rains; avoid contact with flood waters and contaminated soil.",
+    "risk_level": "Medium",
+    "affected_areas": ["Cajamarca City", "Jaén", "San Ignacio"],
+    "prevention_measures": ["Avoid flood waters", "Wear protective footwear", "Control rodents"],
+    "symptoms": ["High fever", "Muscle pain", "Jaundice", "Kidney damage"]
+  },
+  {
+    "region": "Cusco",
+    "title": "Altitude Sickness",
+    "description": "Severe risk in high elevation areas; acclimatize properly before trekking.",
+    "risk_level": "High",
+    "affected_areas": ["Cusco City", "Sacred Valley", "Machu Picchu"],
+    "prevention_measures": ["Acclimatize 2-3 days", "Drink coca tea", "Avoid strenuous activity"],
+    "symptoms": ["Severe headache", "Vomiting", "Confusion", "Difficulty walking"]
+  },
+  {
+    "region": "Huancavelica",
+    "title": "Frostbite Warning",
+    "description": "Extreme cold temperatures; dress in layers and protect exposed skin.",
+    "risk_level": "Medium",
+    "affected_areas": ["Huancavelica City", "Lircay", "Pampas"],
+    "prevention_measures": ["Dress in layers", "Cover exposed skin", "Stay dry", "Limit outdoor time"],
+    "symptoms": ["Numbness", "Tingling", "Skin discoloration", "Blisters"]
+  },
+  {
+    "region": "Huánuco",
+    "title": "Dengue Fever",
+    "description": "Active transmission; use insect repellent and wear protective clothing.",
+    "risk_level": "High",
+    "affected_areas": ["Huánuco City", "Tingo María", "Pucallpa"],
+    "prevention_measures": ["Use mosquito nets", "Apply repellent", "Wear light-colored clothing"],
+    "symptoms": ["Fever", "Eye pain", "Muscle pain", "Bleeding gums"]
+  },
+  {
+    "region": "Ica",
+    "title": "Heat Stroke",
+    "description": "Extreme desert heat; stay hydrated and avoid sun exposure during peak hours.",
+    "risk_level": "High",
+    "affected_areas": ["Ica City", "Nazca", "Paracas"],
+    "prevention_measures": ["Stay hydrated", "Avoid midday sun", "Wear light clothing", "Use sunscreen"],
+    "symptoms": ["High body temperature", "Confusion", "Rapid breathing", "Loss of consciousness"]
+  },
+  {
+    "region": "Junín",
+    "title": "COVID-19 Surge",
+    "description": "Increased cases reported; mask use recommended in crowded areas.",
+    "risk_level": "Medium",
+    "affected_areas": ["Huancayo", "La Oroya", "Satipo"],
+    "prevention_measures": ["Wear masks", "Practice social distancing", "Get vaccinated"],
+    "symptoms": ["Fever", "Cough", "Loss of taste/smell", "Difficulty breathing"]
+  },
+  {
+    "region": "La Libertad",
+    "title": "Chikungunya",
+    "description": "Mosquito-borne virus detected; eliminate breeding sites and use repellents.",
+    "risk_level": "Medium",
+    "affected_areas": ["Trujillo", "Chepén", "Virú"],
+    "prevention_measures": ["Eliminate stagnant water", "Use window screens", "Apply repellent"],
+    "symptoms": ["Severe joint pain", "Fever", "Rash", "Headache"]
+  },
+  {
+    "region": "Lambayeque",
+    "title": "Dengue Epidemic",
+    "description": "Widespread outbreak; fogging operations ongoing, take personal protection measures.",
+    "risk_level": "High",
+    "affected_areas": ["Chiclayo", "Lambayeque", "Ferreñafe"],
+    "prevention_measures": ["Use insect repellent", "Clean water containers", "Report symptoms early"],
+    "symptoms": ["High fever", "Severe pain behind eyes", "Nausea", "Skin rash"]
+  },
+  {
+    "region": "Lima",
+    "title": "Dengue Crisis",
+    "description": "National emergency declared; use repellents and eliminate stagnant water.",
+    "risk_level": "Critical",
+    "affected_areas": ["Lima Norte", "Lima Este", "Callao"],
+    "prevention_measures": ["Fumigate homes", "Remove standing water", "Use mosquito nets"],
+    "symptoms": ["High fever", "Severe headache", "Muscle pain", "Bleeding"]
+  },
+  {
+    "region": "Loreto",
+    "title": "Malaria & Snake Bites",
+    "description": "High malaria risk and venomous snakes active; use prophylaxis and wear boots.",
+    "risk_level": "High",
+    "affected_areas": ["Iquitos", "Yurimaguas", "Requena"],
+    "prevention_measures": ["Take malaria prophylaxis", "Wear boots in jungle", "Use mosquito nets"],
+    "symptoms": ["Fever cycles", "Chills", "Snake bite marks", "Swelling"]
+  },
+  {
+    "region": "Madre de Dios",
+    "title": "Malaria Outbreak",
+    "description": "Active transmission in gold mining areas; mosquito nets and prophylaxis essential.",
+    "risk_level": "High",
+    "affected_areas": ["Puerto Maldonado", "Tambopata", "Manu"],
+    "prevention_measures": ["Use bed nets", "Take antimalarials", "Wear protective clothing"],
+    "symptoms": ["Fever", "Sweating", "Headache", "Vomiting"]
+  },
+  {
+    "region": "Moquegua",
+    "title": "UV Radiation",
+    "description": "Extreme solar radiation; use high SPF sunscreen and protective clothing.",
+    "risk_level": "High",
+    "affected_areas": ["Moquegua City", "Ilo", "Samegua"],
+    "prevention_measures": ["Use SPF 50+ sunscreen", "Wear hats", "Use sunglasses", "Seek shade"],
+    "symptoms": ["Sunburn", "Skin redness", "Blistering", "Headache"]
+  },
+  {
+    "region": "Pasco",
+    "title": "Altitude Sickness",
+    "description": "One of highest cities worldwide; require proper acclimatization period.",
+    "risk_level": "High",
+    "affected_areas": ["Cerro de Pasco", "Oxapampa", "Villa Rica"],
+    "prevention_measures": ["Gradual ascent", "Rest upon arrival", "Drink plenty fluids"],
+    "symptoms": ["Shortness of breath", "Chest tightness", "Cyanosis", "Confusion"]
+  },
+  {
+    "region": "Piura",
+    "title": "Dengue Emergency",
+    "description": "Severe outbreak following heavy rains; intensive vector control operations.",
+    "risk_level": "Critical",
+    "affected_areas": ["Piura City", "Sullana", "Talara"],
+    "prevention_measures": ["Cooperate with fumigation", "Clean water deposits", "Use repellent daily"],
+    "symptoms": ["High fever", "Severe muscle pain", "Bleeding nose", "Fatigue"]
+  },
+  {
+    "region": "Puno",
+    "title": "Extreme Altitude",
+    "description": "Highest risk area for altitude sickness; oxygen supplementation recommended.",
+    "risk_level": "High",
+    "affected_areas": ["Puno City", "Juliaca", "Lake Titicaca"],
+    "prevention_measures": ["Use oxygen if needed", "Acclimatize slowly", "Avoid heavy meals"],
+    "symptoms": ["Severe headache", "Persistent vomiting", "Ataxia", "Fluid in lungs"]
+  },
+  {
+    "region": "San Martín",
+    "title": "Dengue & Leptospirosis",
+    "description": "Dual outbreak; protect against mosquitoes and avoid contaminated water.",
+    "risk_level": "High",
+    "affected_areas": ["Moyobamba", "Tarapoto", "Juanjuí"],
+    "prevention_measures": ["Use mosquito protection", "Avoid flooded areas", "Wear waterproof boots"],
+    "symptoms": ["Fever", "Severe headache", "Red eyes", "Jaundice"]
+  },
+  {
+    "region": "Tacna",
+    "title": "Heat Exhaustion",
+    "description": "Desert conditions with extreme temperatures; maintain hydration and seek shade.",
+    "risk_level": "Medium",
+    "affected_areas": ["Tacna City", "Candarave", "Jorge Basadre"],
+    "prevention_measures": ["Drink water frequently", "Avoid alcohol", "Wear light colors", "Rest in shade"],
+    "symptoms": ["Heavy sweating", "Pale skin", "Fast pulse", "Nausea"]
+  },
+  {
+    "region": "Tumbes",
+    "title": "Malaria & Dengue",
+    "description": "Border area with high mosquito-borne disease risk; comprehensive protection needed.",
+    "risk_level": "High",
+    "affected_areas": ["Tumbes City", "Zarumilla", "Contralmirante Villar"],
+    "prevention_measures": ["Use multiple protection methods", "Sleep under nets", "Take prophylaxis"],
+    "symptoms": ["Cyclical fever", "Chills", "Joint pain", "Rash"]
+  },
+  {
+    "region": "Ucayali",
+    "title": "Malaria Alert",
+    "description": "Active transmission in jungle communities; use bed nets and repellents consistently.",
+    "risk_level": "High",
+    "affected_areas": ["Pucallpa", "Coronel Portillo", "Atalaya"],
+    "prevention_measures": ["Use insecticide-treated nets", "Apply repellent frequently", "Seek early treatment"],
+    "symptoms": ["Fever every 48-72 hours", "Sweating", "Anemia", "Fatigue"]
+  }
+]
