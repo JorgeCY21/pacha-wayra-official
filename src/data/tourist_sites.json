@@ -804,7 +804,7 @@
     "region": "Huanuco",
     "name": "Kotosh - Temple of the Crossed Hands",
     "description": "One of the oldest archaeological sites in Peru, dating back to 2000 BC. Features the famous Temple of the Crossed Hands with mud relief sculptures, representing one of the earliest examples of complex society in the Andes.",
-    "image": "https://images.unsplash.com/photo-1574289197505-47e373ff8c87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.incatrailmachu.com/img/kotosh-monumental-archaeological-zone-and-its-exhibition-hall-349.jpg",
     "lat": -9.9167,
     "lng": -76.2667,
     "category": "Archaeological"
@@ -812,9 +812,9 @@
   {
     "id": 82,
     "region": "Huanuco",
-    "name": "Huánuco Pampa Archaeological Complex",
+    "name": "Huanuco Pampa Archaeological Complex",
     "description": "Major Inca administrative center along the Qhapaq Ñan (Inca Road System). Features impressive stone structures, storehouses, and a central plaza that served as an important hub in the Inca Empire.",
-    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296616",
     "lat": -9.8667,
     "lng": -76.8167,
     "category": "Archaeological"
@@ -824,7 +824,7 @@
     "region": "Huanuco",
     "name": "Carpish Cloud Forest",
     "description": "Beautiful cloud forest ecosystem rich in biodiversity, featuring orchids, bromeliads, and unique wildlife including spectacled bears and the endangered yellow-tailed woolly monkey.",
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.natureandculture.org/wp-content/smush-webp/2019/12/View-of-mountains-in-Carpish_Peru-1024x576.png.webp",
     "lat": -9.5833,
     "lng": -76.0833,
     "category": "Natural"
@@ -832,9 +832,9 @@
   {
     "id": 84,
     "region": "Huanuco",
-    "name": "Huánuco Main Square",
+    "name": "Huanuco Main Square",
     "description": "Charming colonial square surrounded by historic buildings including the Cathedral and Government Palace. Known as the 'City of Eternal Spring' for its pleasant year-round climate.",
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4a/85/5e/dscf7752-snapseed-largejpg.jpg?w=900&h=-1&s=1",
     "lat": -9.9296,
     "lng": -76.2397,
     "category": "Cultural"
@@ -842,9 +842,9 @@
   {
     "id": 85,
     "region": "Huanuco",
-    "name": "Cueva de las Lechuzas (Owls' Cave)",
+    "name": "Owls' Cave",
     "description": "Impressive limestone cave system in Tingo María National Park, home to oilbirds (guácharos), owls, and various bat species. Features spectacular stalactites and stalagmites formations.",
-    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://howtoperu.com/wp-content/uploads/2014/12/cueva-de-las-lechuzas-tingo-maria.jpg",
     "lat": -9.2833,
     "lng": -75.9833,
     "category": "Natural"
@@ -854,7 +854,7 @@
     "region": "Huanuco",
     "name": "Tingo María National Park",
     "description": "Protected area encompassing tropical forests, waterfalls, and the iconic Sleeping Beauty Mountain range. Rich in biodiversity with numerous hiking trails and natural attractions.",
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Entrada_a_la_zona_tur%C3%ADstica_de_la_Cueva_de_las_Lechuzas_del_Parque_Nacional_Tingo_Mar%C3%ADa.jpg",
     "lat": -9.25,
     "lng": -75.9833,
     "category": "Natural"
@@ -862,9 +862,9 @@
   {
     "id": 87,
     "region": "Huanuco",
-    "name": "San Cristóbal de Huánuco Cathedral",
+    "name": "San Cristobal de Huánuco Cathedral",
     "description": "Historic cathedral built in neoclassical style, featuring beautiful altars and religious art. The church stands as an important landmark in the city's colonial architecture.",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVV5vjfeM4nlmvQqrVw_i6vrVU5Ww_l-XjMg&s",
     "lat": -9.9296,
     "lng": -76.2397,
     "category": "Cultural"
@@ -874,7 +874,7 @@
     "region": "Huanuco",
     "name": "Cocha Lake",
     "description": "Serene highland lake surrounded by lush vegetation and traditional farming communities. Ideal for birdwatching, fishing, and experiencing the peaceful Andean countryside.",
-    "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.packing-up-the-pieces.com/wp-content/uploads/2022/05/Kinsa_Cocha_Pisac-768x576.jpg",
     "lat": -9.75,
     "lng": -76.5,
     "category": "Natural"
@@ -884,7 +884,7 @@
     "region": "Huanuco",
     "name": "Tantamayo Archaeological Sites",
     "description": "Collection of pre-Inca archaeological sites featuring stone structures, tombs, and agricultural terraces from the Yarowilca culture. Offers insights into ancient highland civilizations.",
-    "image": "https://images.unsplash.com/photo-1464822759843-44bcb45994c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://www.civitatis.com/f/peru/huanuco/excursion-3-dias-tantamayo-589x392.jpg",
     "lat": -9.4167,
     "lng": -76.75,
     "category": "Archaeological"
@@ -894,7 +894,7 @@
     "region": "Huanuco",
     "name": "La Bella Durmiente (Sleeping Beauty Mountain)",
     "description": "Iconic mountain range that resembles a sleeping woman when viewed from Tingo María. The formation is part of local legends and offers excellent hiking opportunities through diverse ecosystems.",
-    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bella_Durmiente_TM-Peru-1.jpg",
     "lat": -9.2833,
     "lng": -75.9833,
     "category": "Natural"
